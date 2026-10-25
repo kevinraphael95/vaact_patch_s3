@@ -1,3 +1,4 @@
+--[CUSTOM] base copiée de c86509711.lua (Magicians' Combination) - à modifier
 --マジシャンズ・コンビネーション
 --Magicians' Combination
 --Scripted by Larry126

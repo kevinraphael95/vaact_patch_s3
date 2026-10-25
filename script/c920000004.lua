@@ -1,3 +1,4 @@
+--[CUSTOM] base copiée de c7084129.lua (Magician's Rod) - à modifier
 --マジシャンズ・ロッド
 --Magician's Rod
 local s,id=GetID()

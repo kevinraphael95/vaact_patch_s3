@@ -1,3 +1,4 @@
+--[CUSTOM] base copiée de c88619463.lua (Sorcerer of Dark Magic) - à modifier
 --黒の魔法神官
 --Sorcerer of Dark Magic
 local s,id=GetID()

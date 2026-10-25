@@ -1,3 +1,4 @@
+--[CUSTOM] base copiée de c71696014.lua (Magician's Robe) - à modifier
 --マジシャンズ・ローブ
 --Magician's Robe
 local s,id=GetID()

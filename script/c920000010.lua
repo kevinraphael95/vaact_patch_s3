@@ -1,3 +1,4 @@
+--[CUSTOM] base copiée de c6309986.lua (Five Star Twilight) - à modifier
 --ティンクル・ファイブスター
 --Five Star Twilight
 --OCG/TCG converted by Larry126
